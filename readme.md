@@ -1,115 +1,117 @@
-PT-BR
-# Análise de Vendas com Python
+# 📊 Sales Data Analysis with Python | Análise de Vendas com Python
 
-Projeto simples de análise de dados utilizando Python e Pandas.
+A simple data analysis project built with **Python**, demonstrating data processing, visualization, and insight generation using sales data.
 
-## Tecnologias
-- Python
-- Pandas
-- Matplotlib
-
-## Funcionalidades
-- Leitura de arquivo CSV
-- Análise de vendas
-- Gráficos automáticos
-- Insights de dados
-
-## Como executar
-
-```bash
-python main.py
-
-Criado com python para propositos de aprendizado e portfolio.
-
-![Sales Chart](grafico_vendas.png)
+Um projeto simples de análise de dados utilizando **Python**, focado em processamento, visualização e geração de insights a partir de dados de vendas.
 
 ---
 
-ENGLISH
+## 🚀 Project Overview | Visão Geral
 
-# Sales Data Analysis with Python
+This project demonstrates fundamental data analysis skills:
 
-This is a simple data analysis project built with Python to analyze sales data from a CSV file and generate insights and visualizations automatically.
+* Reading CSV datasets
+* Data aggregation and analysis
+* Automatic chart generation
+* Insight extraction from sales data
 
-## 📊 Project Overview
+Este projeto demonstra habilidades fundamentais de análise de dados:
 
-The goal of this project is to demonstrate basic data analysis skills using Python, including data loading, aggregation, and visualization.
+* Leitura de arquivos CSV
+* Análise e agregação de dados
+* Geração automática de gráficos
+* Extração de insights de vendas
 
-## 🛠 Technologies Used
+---
+
+## 🛠 Technologies | Tecnologias
 
 * Python
 * Pandas
 * Matplotlib
 
-## ⚙️ Features
+---
+
+## ⚙️ Features | Funcionalidades
 
 * Load sales data from a CSV file
-* Calculate total sales
-* Analyze sales by category
-* Identify the most profitable product
-* Generate and save charts automatically
 
-## 📁 Project Structure
+* Calculate total sales
+
+* Analyze sales by category
+
+* Identify the most profitable product
+
+* Automatically generate charts
+
+* Leitura de dados de vendas via CSV
+
+* Cálculo do total de vendas
+
+* Análise por categoria
+
+* Identificação do produto mais lucrativo
+
+* Geração automática de gráficos
+
+---
+
+## 📁 Project Structure | Estrutura do Projeto
 
 ```
-project-sales-analysis/
+sales-data-analysis-python/
 │
 ├── data/
 │   └── vendas.csv
 ├── main.py
 ├── requirements.txt
+├── grafico_vendas.png
 └── README.md
 ```
 
-## ▶️ How to Run
+---
 
-1. Clone the repository:
+## ▶️ How to Run | Como Executar
 
-```
-git clone <your-repository-link>
-```
+### 1️⃣ Clone the repository
 
-2. Navigate to the project folder:
-
-```
-cd project-sales-analysis
+```bash
+git clone https://github.com/Ramdsdev/sales-data-analysis-python.git
 ```
 
-3. Create and activate a virtual environment:
+### 2️⃣ Navigate to the folder
 
+```bash
+cd sales-data-analysis-python
 ```
+
+### 3️⃣ Create virtual environment (recommended)
+
+```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-4. Install dependencies:
+### 4️⃣ Install dependencies
 
-```
+```bash
 python -m pip install -r requirements.txt
 ```
 
-5. Run the project:
+### 5️⃣ Run the project
 
-```
+```bash
 python main.py
 ```
 
-## 📈 Output
+---
+
+## 📈 Output Example | Exemplo de Saída
 
 The program will:
 
 * Display sales insights in the terminal
-* Generate a bar chart showing sales by category
-* Save the chart as `grafico_vendas.png`
+* Generate a bar c
 
-## 🎯 Purpose
-
-This project was created as a portfolio project to demonstrate foundational skills in Python and data analysis for internship opportunities.
-
----
-
-## Example Output
-
-Created with Python for learning and portfolio purposes.
 
 
