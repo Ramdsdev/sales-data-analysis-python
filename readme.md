@@ -6,7 +6,7 @@ Um projeto simples de análise de dados utilizando **Python**, focado em process
 
 ---
 
-## 🚀 Project Overview | Visão Geral
+## Project Overview | Visão Geral
 
 This project demonstrates fundamental data analysis skills:
 
@@ -24,7 +24,7 @@ Este projeto demonstra habilidades fundamentais de análise de dados:
 
 ---
 
-## 🛠 Technologies | Tecnologias
+## Technologies | Tecnologias
 
 * Python
 * Pandas
@@ -32,7 +32,7 @@ Este projeto demonstra habilidades fundamentais de análise de dados:
 
 ---
 
-## ⚙️ Features | Funcionalidades
+## Features | Funcionalidades
 
 * Load sales data from a CSV file
 
@@ -56,7 +56,7 @@ Este projeto demonstra habilidades fundamentais de análise de dados:
 
 ---
 
-## 📁 Project Structure | Estrutura do Projeto
+## Project Structure | Estrutura do Projeto
 
 ```
 sales-data-analysis-python/
@@ -71,34 +71,34 @@ sales-data-analysis-python/
 
 ---
 
-## ▶️ How to Run | Como Executar
+## How to Run | Como Executar
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/Ramdsdev/sales-data-analysis-python.git
 ```
 
-### 2️⃣ Navigate to the folder
+### Navigate to the folder
 
 ```bash
 cd sales-data-analysis-python
 ```
 
-### 3️⃣ Create virtual environment (recommended)
+### Create virtual environment (recommended)
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 4️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-### 5️⃣ Run the project
+### Run the project
 
 ```bash
 python main.py
@@ -106,7 +106,7 @@ python main.py
 
 ---
 
-## 📈 Output Example | Exemplo de Saída
+## Output Example | Exemplo de Saída
 
 The program will:
 
